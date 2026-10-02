@@ -1,0 +1,19 @@
+# Author: Roshitha K
+# Lower bounds only: versions were NOT installed/verified in the authoring sandbox (no network).
+# Python 3.10-3.12. See README "Verification".
+streamlit>=1.37
+pandas>=2.0
+numpy>=1.24
+plotly>=5.18
+SQLAlchemy>=2.0
+psycopg2-binary>=2.9
+PyJWT>=2.8
+bcrypt>=4.0
+torch>=2.1
+langchain>=0.2
+langchain-core>=0.2
+langchain-community>=0.2
+langchain-huggingface>=0.0.3
+langchain-text-splitters>=0.2
+faiss-cpu>=1.7.4
+sentence-transformers>=2.7
